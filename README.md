@@ -1,5 +1,4 @@
 # DailyDos
-# To-Do List Application
 
 ## Description
 This is a simple command-line to-do list application implemented in Python. Users can add, remove, and view tasks, as well as save and load tasks to/from a text file.
